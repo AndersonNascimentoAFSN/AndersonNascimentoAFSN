@@ -22,12 +22,12 @@ Olá, me chamo Anderson Nascimento, sou de Maceió/AL, Brasil. Atualmente estou 
 - 👩🏽‍💻 Desenvolvedor full-stack [em formação]
 - 💻 Estudando **HTML/CSS**
 
-<-
+<--
 - 🎨 Apesar de estar no área de tecnologia adoro teatro e sempre que posso faço algum curso.
 - 👩🏽‍🎓 Acredito fortemente que podemos sempre aprender alguma coisa com alguém ou com alguma situação
 - 💬 Colaboração é um valor, me manda uma mensagem, adoraria ajudar!
 - 📬 Para entrar em contato comigo, por favor, envie um email para `anderson.nascimentoafsn@gmail.com`
-->
+-->
 <-- - 📄 Dê uma olhada no meu [Currículo](https://gitconnected.com/gomesanac/resume) -->
 
 <-- **Tecnologias e ferramentas**
