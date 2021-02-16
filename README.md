@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonNascimentoAFSN)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonNascimentoAFSN)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/gomesanac">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=AndersonNascimentoAFSN&show_icons=true&theme=dracula" alt="AndersonNascimentoAFSN" />
+</a>
+<a href="https://github.com/gomesanac">
+  <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonNascimentoAFSN&layout=compact&theme=dracula" alt="AndersonNascimentoAFSN" />
+</a>
+
