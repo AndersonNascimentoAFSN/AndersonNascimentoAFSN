@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-Olá, me chamo Anderson Nascimento, sou de Maceió/AL, Brasil. Atualmente estou finalizando meus estudos na [Trybe](https://www.betrybe.com/) para me tornar uma **Desenvolvedor Full-Stack Júnior** 🚀.
+Olá, me chamo Anderson Nascimento, sou de Maceió/AL, Brasil. Atualmente estou finalizando meus estudos na [Trybe](https://www.betrybe.com/) para me tornar um **Desenvolvedor Full-Stack Júnior** 🚀.
 
 - 👩🏽‍💻 Desenvolvedor full-stack [em formação]
 - 💻 Estudando **HTML/CSS**
