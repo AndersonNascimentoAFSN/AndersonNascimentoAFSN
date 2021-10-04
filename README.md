@@ -29,8 +29,8 @@ Olá, me chamo Anderson Nascimento, sou de Maceió/AL, Brasil. Atualmente estou 
 </a>
 
 
-<h1 align="center">Hello, world :earth_americas:, I'm Guilherme M. Dornelles :wink:</h1>
-<h2 align="center"> :speaking_head: Languages:  :brazil: :uk: </h2>
+<h1 align="center">Hello, world :earth_americas:, I'm Anderson F. S. do Nascimento :wink:</h1>
+<h2 align="center"> :speaking_head: Languages:  :brazil: </h2>
 <h3 align="center">Web Developer Student at <a href="https://www.betrybe.com/">Trybe</a> - Html | JavaScript| Css| Jest| React| MySQL</h3>
 
 
