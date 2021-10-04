@@ -4,7 +4,7 @@
 
 
 
-- 📫 How to reach me **anderson.nascimentoafsn@gmail.com**
+- 📫 How to reach me **anderson.nascimentoafsn@gmail.com** **(82) 9 8152-2363**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
