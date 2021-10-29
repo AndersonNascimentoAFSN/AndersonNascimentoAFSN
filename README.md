@@ -1,7 +1,9 @@
 <h1 align="center">Olá, mundo :earth_americas:! Eu sou Anderson F. S. do Nascimento :wink:</h1>
 <h2 align="center"> Desenvolvedor de software Full Stack Jr <span>(à procura de uma oportunidade)</span> - JavaScript | TDD | React | NodeJs | MongoDb | MySQL</h2>
 
-- 📫 Como entrar em contato **anderson.nascimentoafsn@gmail.com** / **(82) 9 8152-2363**
+<h3> 📫 Como entrar em contato </h3>
+<p>Email: anderson.nascimentoafsn@gmail.com</p>
+<p>Telefone: (82) 9 8152-2363</p>
 
 <h3>Um pouco sobre mim</h3>
 <p></p>
