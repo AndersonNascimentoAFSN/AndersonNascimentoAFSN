@@ -1,10 +1,10 @@
-<h1 align="center">Hello, world :earth_americas:, I'm Anderson F. S. do Nascimento :wink:</h1>
+<h1 align="center">Olá, mundo :earth_americas:, Eu sou Anderson F. S. do Nascimento :wink:</h1>
 <h2 align="center"> :speaking_head: Languages:  :brazil: </h2>
 <h3 align="center">Web Developer Student at <a href="https://www.betrybe.com/">Trybe</a> - JavaScript | TDD | React | NodeJs | MongoDb | MySQL</h3>
 
 
 
-- 📫 How to reach me **anderson.nascimentoafsn@gmail.com** / **(82) 9 8152-2363**
+- 📫 Como entrar em contato **anderson.nascimentoafsn@gmail.com** / **(82) 9 8152-2363**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
