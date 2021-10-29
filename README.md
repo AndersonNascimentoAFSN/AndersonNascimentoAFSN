@@ -6,6 +6,8 @@
 
 - 📫 Como entrar em contato **anderson.nascimentoafsn@gmail.com** / **(82) 9 8152-2363**
 
+- Um pouco sobre mim
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andersonnascimentoafsn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andersonnascimentoafsn/" height="30" width="40" /></a>
