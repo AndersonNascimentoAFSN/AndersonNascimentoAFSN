@@ -3,12 +3,12 @@
 
 <h3> 📫 Como entrar em contato: </h3>
 <ul>
-  <li>Email: anderson.nascimentoafsn@gmail.com<</li>
+  <li>Email: anderson.nascimentoafsn@gmail.com</li>
   <li>Telefone: (82) 9 8152-2363</li>
 </ul>
 
-<h3>Um pouco sobre mim</h3>
-<p></p>
+<!-- <h3>Um pouco sobre mim</h3>
+<p></p> -->
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
