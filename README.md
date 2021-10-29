@@ -1,6 +1,5 @@
 <h1 align="center">Olá, mundo :earth_americas:! Eu sou Anderson F. S. do Nascimento :wink:</h1>
 <h2 align="center"> Estudante de desenvolvimento de software Full Stack na <a href="https://www.betrybe.com/">Trybe</a> - JavaScript | TDD | React | NodeJs | MongoDb | MySQL</h2>
-<h2 align="center"> :speaking_head: Languages:  :brazil: </h2>
 
 - 📫 Como entrar em contato **anderson.nascimentoafsn@gmail.com** / **(82) 9 8152-2363**
 
