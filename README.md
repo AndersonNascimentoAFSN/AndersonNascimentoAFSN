@@ -2,8 +2,10 @@
 <h2 align="center"> Desenvolvedor de software Full Stack Jr <span>(à procura de uma oportunidade)</span> - JavaScript | TDD | React | NodeJs | MongoDb | MySQL</h2>
 
 <h3> 📫 Como entrar em contato: </h3>
-<p align="right">Email: anderson.nascimentoafsn@gmail.com</p>
-<p align="right">Telefone: (82) 9 8152-2363</p>
+<ul>
+  <li>Email: anderson.nascimentoafsn@gmail.com<</li>
+  <li>Telefone: (82) 9 8152-2363</li>
+</ul>
 
 <h3>Um pouco sobre mim</h3>
 <p></p>
