@@ -1,5 +1,5 @@
 <h1 align="center">Olá, mundo :earth_americas:! Eu sou Anderson F. S. do Nascimento :wink:</h1>
-<h2 align="center"> Desenvolvedor de software Full Stack <span></span> - JavaScript | TDD | React | NodeJs | MongoDb | MySQL</h2>
+<h2 align="center"> Desenvolvedor de software Full Stack <span></span> - JavaScript | TDD | React | NextJs | NodeJs | MongoDb | MySQL</h2>
 
 <h3> 📫 Como entrar em contato: </h3>
 <ul>
